@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infosys.AINA.EmotionDetection.VideoProcessor
+namespace VideoProcessor
 {
     public static class RetryHelper
     {
